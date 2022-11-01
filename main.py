@@ -1,1 +1,1 @@
-print('Hello woeld :D')
+print('Hello Blatz :D')
